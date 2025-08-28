@@ -2,60 +2,146 @@
 
 💻 Analyst and Developer passionate about technology and innovation.  
 🚀 Interests: Web Development, Apps, Artificial Intelligence, Internet of Things, and Electronics.  
-📚 Always learning something new in **JavaScript, TypeScript, React, Next.js, Node.js**, and the world of AIs.
+📚 Always learning something new in **JavaScript, TypeScript, React, Next.js, Node.js** and the **world of AIs**.
 
----
+&nbsp;
 
-## 🌱 Currently Learning
+## 🧠 About Me
 
-![AI](https://img.shields.io/badge/AI-DeepLearning-blue?style=for-the-badge&logo=opencv)  
-![IoT](https://img.shields.io/badge/IoT-InternetOfThings-green?style=for-the-badge&logo=arduino)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+- 🤖 Postgraduate studies in Artificial Intelligence (in progress)
+- 🧑‍🏫 Graduated in Systems Analysis and Development
+- 🪛 Computer Technician
 
----
-
-## 🔧 Technologies & Tools
-
-**Languages & Frameworks:**  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-
-**Frontend:**  
-![React](https://c.tenor.com/W6rOqR09Nd0AAAAC/react-js.gif)  
-![Next.js](https://c.tenor.com/rf0hS1h_bN8AAAAC/nextjs.gif)  
-![TailwindCSS](https://c.tenor.com/0mqk0RrrXeoAAAAC/tailwind-css-tailwind.gif)  
-
-**Backend:**  
-![Node.js](https://c.tenor.com/TsM8lGGlBDoAAAAC/nodejs-node.gif)  
-![Express](https://c.tenor.com/yN2_4G0sR1QAAAAC/express-node.gif)  
-![Prisma](https://c.tenor.com/J6pSca2BO9IAAAAC/prisma.gif)  
-
-**Databases & Tools:**  
-![PostgreSQL](https://c.tenor.com/hPNrglJhnv0AAAAC/postgresql.gif)  
-![MySQL](https://c.tenor.com/dF1kBYT6CwAAAAAC/mysql-database.gif)  
-![Git](https://c.tenor.com/Yx5ZxuN0GcIAAAAC/git-git-logo.gif)  
-![Figma](https://c.tenor.com/uh3foDQz0nAAAAAC/figma.gif)  
-![WordPress](https://c.tenor.com/gxhN0Z9xE8YAAAAC/wordpress.gif)  
-![Elementor](https://c.tenor.com/KsRRwDhw8pIAAAAC/elementor.gif)  
-
----
-
-## 📈 GitHub Stats
-
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaodepaulojp&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodepaulojp&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaodepaulojp&theme=radical)  
-
----
+&nbsp;
 
 ## 🌐 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-joaodepaulo.site-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joaodepaulo.site)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-depaulo)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaodepaulocardoso@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-depaulo)
+[![Website](https://img.shields.io/badge/joaodepaulo.site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joaodepaulo.site)
+[![Email](https://img.shields.io/badge/Email-joaodepaulocardoso%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaodepaulocardoso@gmail.com)
 
----
 
-✨ *"Turning ideas into code and code into solutions."*
+&nbsp;
+
+
+## 🔧 Technologies & Tools
+     
+ <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Prisma" 
+    title="Prisma"
+    width="60px" 
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Wordpress" 
+    title="Wordpress"
+    width="60px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
+/>
+<img
+    align="left"
+    alt="Figma"
+    title="Figma"
+    width="60px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<img
+    align="left"
+    alt="Postgresql"
+    title="Postgresql"
+    width="60px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+<br>
+<br>
+&nbsp;
+&nbsp;
+
+
+## 💻 Tech Stack Highlights
+
+
+<p align="left">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodepaulojp&layout=compact&hide_border=true&title_color=991818&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+## 🟥 Latest Commit Energy
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=joaodepaulojp&show_icons=true&theme=github_dark&hide_border=true&title_color=fc354c&icon_color=991818&text_color=0abfbc" />
+</p>
+
+
+<p align="center">
+  <em>🫡 "Turning ideas into code and code into solutions." </em>
+</p>
