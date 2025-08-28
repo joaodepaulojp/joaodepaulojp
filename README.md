@@ -25,7 +25,7 @@
 
 
 ## 🔧 Technologies & Tools
-     
+<p>    
  <img 
     align="left" 
     alt="HTML"
@@ -122,6 +122,9 @@
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
+</p>
+<br>
+<br>
 <br>
 <br>
 &nbsp;
