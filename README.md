@@ -40,11 +40,12 @@
 ### ⚙️ Back-End & Databases
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Neon](https://img.shields.io/badge/-Neon-333333?style=flat&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-333333?style=flat&logo=mysql)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 
 
 ### 🧩 Others
