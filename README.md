@@ -56,13 +56,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 
-## 💻 Tech Stack Highlights
-
-
-<p align="left">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodepaulojp&layout=compact&hide_border=true&title_color=991818&text_color=ffffff&bg_color=0d1117" />
-</p>
-
 ## 🟥 Latest Commit Energy
 
 <p align="left">
