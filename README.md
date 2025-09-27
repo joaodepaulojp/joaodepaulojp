@@ -60,7 +60,7 @@
 ## 🟥 Latest Commit Energy
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=joaodepaulojp&show_icons=true&theme=github_dark&hide_border=true&title_color=fc354c&icon_color=991818&text_color=0abfbc" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaodepaulojp&show_icons=true&theme=github_dark&hide_border=true&title_color=fc354c&icon_color=991818&text_color=0abfbc&rank_icon=github" />
 </p>
 
 
