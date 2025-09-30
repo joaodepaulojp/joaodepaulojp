@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>
-  Hi, i'm João de Paulo
+   &nbsp;Hi, i'm João de Paulo
 </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=konstant+grotesk&size=40&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=1200&height=120&lines=Welcome+to+My+GitHub;Code.;Learn.;Repeat.)](https://git.io/typing-svg)
@@ -12,7 +12,7 @@
 &nbsp;
 
 <h2 style="display: flex;  align-items: center; gap: 8px;">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515239/12569/meow_coffeespitting.gif?1643515239" width="30"/>About Me
+  <img src="https://emojis.slackmojis.com/emojis/images/1643515239/12569/meow_coffeespitting.gif?1643515239" width="30"/> &nbsp;About Me
 </h2>
 
 - 🤖 Postgraduate studies in Artificial Intelligence (in progress)
@@ -22,7 +22,7 @@
 &nbsp;
 
 <h2 style="display: flex;  align-items: center; gap: 8px;">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643516066/20895/cell-phone.gif?1643516066" width="30"/>Connect with Me
+  <img src="https://emojis.slackmojis.com/emojis/images/1643516066/20895/cell-phone.gif?1643516066" width="30"/> &nbsp;Connect with Me
 </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-depaulo)&nbsp;
@@ -33,7 +33,7 @@
 
 <h2 style="display: flex;  align-items: center; gap: 8px;">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/>
-  Technologies & Tools
+   &nbsp;Technologies & Tools
 </h2>
 
 ### 💻 Languages
@@ -67,14 +67,14 @@
 &nbsp;
 
 <h2 style="display: flex;  align-items: center; gap: 8px;">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514559/5584/deployparrot.gif?1643514559" width="30"/>GitHub Stats
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514559/5584/deployparrot.gif?1643514559" width="30"/> &nbsp;GitHub Stats
 </h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=joaodepaulojp&show_icons=true&theme=github_dark&hide_border=true&title_color=fc354c&icon_color=991818&text_color=0abfbc&rank_icon=github" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaodepaulojp&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/joaodepaulojp/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaodepaulojp&bg_color=0d1117&color=991818&line=991818&point=0abfbc&area=true&hide_border=true)](https://github.com/joaodepaulojp/github-readme-activity-graph)
 
 <p align="center">
   <em>🫡 "Turning ideas into code and code into solutions." </em>
