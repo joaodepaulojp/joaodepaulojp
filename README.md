@@ -47,6 +47,7 @@
 ![NextJs](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Node JS](https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ### ⚙️ Databases
 
@@ -58,6 +59,9 @@
 
 ### 🧩 Others
 
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHUB-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)&nbsp;
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)&nbsp;
